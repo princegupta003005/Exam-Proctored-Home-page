@@ -1,0 +1,26 @@
+.aboutUs{
+ background-image: url("lo.jfif");
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: antiquewhite;
+ backdrop-filter: blur(10px);
+
+ 
+}
+.modalopen{
+    overflow: hidden;
+}
+.site-header a{
+    color: orangered;
+    transition: ease-in-out color .15s;
+    text-decoration: none;
+}
+.footr{
+    background-color: grey;
+    color: ivory;
+    height: 100%;
+    
+}
+.clearfix{
+    clear:both;
+}
